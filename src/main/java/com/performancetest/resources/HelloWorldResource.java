@@ -1,6 +1,6 @@
-package com.lieferbox.resources;
+package com.performancetest.resources;
 
-import com.lieferbox.model.Saying;
+import com.performancetest.model.Saying;
 import com.google.common.base.Optional;
 import com.codahale.metrics.annotation.Timed;
 

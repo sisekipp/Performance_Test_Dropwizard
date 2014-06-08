@@ -1,4 +1,4 @@
-package com.lieferbox.health;
+package com.performancetest.health;
 
 import com.codahale.metrics.health.HealthCheck;
 

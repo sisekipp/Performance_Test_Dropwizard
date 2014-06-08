@@ -1,4 +1,4 @@
-package com.lieferbox.model;
+package com.performancetest.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import org.hibernate.validator.constraints.Length;

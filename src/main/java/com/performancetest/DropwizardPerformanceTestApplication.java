@@ -1,11 +1,11 @@
-package com.lieferbox;
+package com.performancetest;
 
 import io.dropwizard.Application;
 import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;
-import com.lieferbox.configuration.DropwizardConfiguration;
-import com.lieferbox.resources.HelloWorldResource;
-import com.lieferbox.health.TemplateHealthCheck;
+import com.performancetest.configuration.DropwizardConfiguration;
+import com.performancetest.resources.HelloWorldResource;
+import com.performancetest.health.TemplateHealthCheck;
 
 public class DropwizardPerformanceTestApplication extends Application<DropwizardConfiguration> {
     public static void main(String[] args) throws Exception {

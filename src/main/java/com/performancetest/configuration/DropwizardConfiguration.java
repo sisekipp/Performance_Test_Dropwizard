@@ -1,4 +1,4 @@
-package com.lieferbox.configuration;
+package com.performancetest.configuration;
 
 import io.dropwizard.Configuration;
 import com.fasterxml.jackson.annotation.JsonProperty;
